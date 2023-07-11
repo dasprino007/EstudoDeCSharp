@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\bin\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\bin\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\bin\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\bin\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\bin\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\refint\Aula23EntradaDeDadosEmCSharpPARTE2.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\Aula23EntradaDeDadosEmCSharpPARTE2.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23EntradaDeDadosEmCSharpPARTE2\Aula23EntradaDeDadosEmCSharpPARTE2\obj\Debug\net6.0\ref\Aula23EntradaDeDadosEmCSharpPARTE2.dll

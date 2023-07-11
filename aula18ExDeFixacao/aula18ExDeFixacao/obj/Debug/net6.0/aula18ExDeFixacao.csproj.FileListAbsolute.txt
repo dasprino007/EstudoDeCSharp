@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\bin\Debug\net6.0\aula18ExDeFixacao.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\bin\Debug\net6.0\aula18ExDeFixacao.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\bin\Debug\net6.0\aula18ExDeFixacao.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\bin\Debug\net6.0\aula18ExDeFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\bin\Debug\net6.0\aula18ExDeFixacao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\refint\aula18ExDeFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\aula18ExDeFixacao.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula18ExDeFixacao\aula18ExDeFixacao\obj\Debug\net6.0\ref\aula18ExDeFixacao.dll

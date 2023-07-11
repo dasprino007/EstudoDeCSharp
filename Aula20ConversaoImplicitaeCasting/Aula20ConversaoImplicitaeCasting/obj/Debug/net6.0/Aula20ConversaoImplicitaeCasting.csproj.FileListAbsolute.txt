@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\bin\Debug\net6.0\Aula20ConversaoImplicitaeCasting.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\bin\Debug\net6.0\Aula20ConversaoImplicitaeCasting.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\bin\Debug\net6.0\Aula20ConversaoImplicitaeCasting.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\bin\Debug\net6.0\Aula20ConversaoImplicitaeCasting.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\bin\Debug\net6.0\Aula20ConversaoImplicitaeCasting.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\refint\Aula20ConversaoImplicitaeCasting.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\Aula20ConversaoImplicitaeCasting.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula20ConversaoImplicitaeCasting\Aula20ConversaoImplicitaeCasting\obj\Debug\net6.0\ref\Aula20ConversaoImplicitaeCasting.dll

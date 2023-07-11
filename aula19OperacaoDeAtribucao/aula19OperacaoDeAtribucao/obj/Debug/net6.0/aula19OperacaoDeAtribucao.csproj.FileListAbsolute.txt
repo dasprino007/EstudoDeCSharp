@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\bin\Debug\net6.0\aula19OperacaoDeAtribucao.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\bin\Debug\net6.0\aula19OperacaoDeAtribucao.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\bin\Debug\net6.0\aula19OperacaoDeAtribucao.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\bin\Debug\net6.0\aula19OperacaoDeAtribucao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\bin\Debug\net6.0\aula19OperacaoDeAtribucao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\refint\aula19OperacaoDeAtribucao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\aula19OperacaoDeAtribucao.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula19OperacaoDeAtribucao\aula19OperacaoDeAtribucao\obj\Debug\net6.0\ref\aula19OperacaoDeAtribucao.dll

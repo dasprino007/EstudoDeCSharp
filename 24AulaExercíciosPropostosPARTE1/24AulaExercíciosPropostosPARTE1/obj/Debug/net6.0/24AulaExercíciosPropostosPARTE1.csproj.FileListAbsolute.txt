@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\bin\Debug\net6.0\24AulaExercíciosPropostosPARTE1.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\bin\Debug\net6.0\24AulaExercíciosPropostosPARTE1.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\bin\Debug\net6.0\24AulaExercíciosPropostosPARTE1.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\bin\Debug\net6.0\24AulaExercíciosPropostosPARTE1.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\bin\Debug\net6.0\24AulaExercíciosPropostosPARTE1.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\refint\24AulaExercíciosPropostosPARTE1.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\24AulaExercíciosPropostosPARTE1.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\24AulaExercíciosPropostosPARTE1\24AulaExercíciosPropostosPARTE1\obj\Debug\net6.0\ref\24AulaExercíciosPropostosPARTE1.dll

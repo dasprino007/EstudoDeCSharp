@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\bin\Debug\net6.0\Aula23ExercicioDeFixacao.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\bin\Debug\net6.0\Aula23ExercicioDeFixacao.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\bin\Debug\net6.0\Aula23ExercicioDeFixacao.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\bin\Debug\net6.0\Aula23ExercicioDeFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\bin\Debug\net6.0\Aula23ExercicioDeFixacao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\refint\Aula23ExercicioDeFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\Aula23ExercicioDeFixacao.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula23ExercicioDeFixacao\Aula23ExercicioDeFixacao\obj\Debug\net6.0\ref\Aula23ExercicioDeFixacao.dll

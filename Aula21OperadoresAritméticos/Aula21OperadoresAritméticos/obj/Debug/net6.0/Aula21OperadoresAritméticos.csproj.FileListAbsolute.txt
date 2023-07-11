@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\bin\Debug\net6.0\Aula21OperadoresAritméticos.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\bin\Debug\net6.0\Aula21OperadoresAritméticos.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\bin\Debug\net6.0\Aula21OperadoresAritméticos.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\bin\Debug\net6.0\Aula21OperadoresAritméticos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\bin\Debug\net6.0\Aula21OperadoresAritméticos.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\refint\Aula21OperadoresAritméticos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\Aula21OperadoresAritméticos.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula21OperadoresAritméticos\Aula21OperadoresAritméticos\obj\Debug\net6.0\ref\Aula21OperadoresAritméticos.dll

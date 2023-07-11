@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\bin\Debug\net6.0\Aula22EntradaDeDadosEmC#.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\bin\Debug\net6.0\Aula22EntradaDeDadosEmC#.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\bin\Debug\net6.0\Aula22EntradaDeDadosEmC#.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\bin\Debug\net6.0\Aula22EntradaDeDadosEmC#.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\bin\Debug\net6.0\Aula22EntradaDeDadosEmC#.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\refint\Aula22EntradaDeDadosEmC#.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\Aula22EntradaDeDadosEmC#.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula22EntradaDeDadosEmC#\Aula22EntradaDeDadosEmC#\obj\Debug\net6.0\ref\Aula22EntradaDeDadosEmC#.dll
