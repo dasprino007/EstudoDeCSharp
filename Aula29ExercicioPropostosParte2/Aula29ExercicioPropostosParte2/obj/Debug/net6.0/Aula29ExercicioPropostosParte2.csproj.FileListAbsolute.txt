@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\bin\Debug\net6.0\Aula29ExercicioPropostosParte2.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\bin\Debug\net6.0\Aula29ExercicioPropostosParte2.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\bin\Debug\net6.0\Aula29ExercicioPropostosParte2.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\bin\Debug\net6.0\Aula29ExercicioPropostosParte2.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\bin\Debug\net6.0\Aula29ExercicioPropostosParte2.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\refint\Aula29ExercicioPropostosParte2.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\Aula29ExercicioPropostosParte2.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula29ExercicioPropostosParte2\Aula29ExercicioPropostosParte2\obj\Debug\net6.0\ref\Aula29ExercicioPropostosParte2.dll

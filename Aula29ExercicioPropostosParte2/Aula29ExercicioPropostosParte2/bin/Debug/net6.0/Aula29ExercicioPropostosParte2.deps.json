@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula29ExercicioPropostosParte2/1.0.0": {
+        "runtime": {
+          "Aula29ExercicioPropostosParte2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula29ExercicioPropostosParte2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
