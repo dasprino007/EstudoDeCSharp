@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\bin\Debug\net6.0\Aula43ExFixacao.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\bin\Debug\net6.0\Aula43ExFixacao.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\bin\Debug\net6.0\Aula43ExFixacao.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\bin\Debug\net6.0\Aula43ExFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\bin\Debug\net6.0\Aula43ExFixacao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\refint\Aula43ExFixacao.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\Aula43ExFixacao.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula43ExFixacao\Aula43ExFixacao\obj\Debug\net6.0\ref\Aula43ExFixacao.dll

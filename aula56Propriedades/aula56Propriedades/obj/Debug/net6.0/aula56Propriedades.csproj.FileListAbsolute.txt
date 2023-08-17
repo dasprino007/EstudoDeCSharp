@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\bin\Debug\net6.0\aula56Propriedades.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\bin\Debug\net6.0\aula56Propriedades.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\bin\Debug\net6.0\aula56Propriedades.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\bin\Debug\net6.0\aula56Propriedades.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\bin\Debug\net6.0\aula56Propriedades.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\refint\aula56Propriedades.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\aula56Propriedades.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula56Propriedades\aula56Propriedades\obj\Debug\net6.0\ref\aula56Propriedades.dll

@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\bin\Debug\net6.0\aula25OperadoresEComparativos.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\bin\Debug\net6.0\aula25OperadoresEComparativos.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\bin\Debug\net6.0\aula25OperadoresEComparativos.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\bin\Debug\net6.0\aula25OperadoresEComparativos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\bin\Debug\net6.0\aula25OperadoresEComparativos.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\refint\aula25OperadoresEComparativos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\aula25OperadoresEComparativos.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula25OperadoresEComparativos\aula25OperadoresEComparativos\obj\Debug\net6.0\ref\aula25OperadoresEComparativos.dll

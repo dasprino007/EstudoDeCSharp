@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\net6.0\Aula55Encapsulamento.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\net6.0\Aula55Encapsulamento.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\net6.0\Aula55Encapsulamento.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\net6.0\Aula55Encapsulamento.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\net6.0\Aula55Encapsulamento.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\refint\Aula55Encapsulamento.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\Aula55Encapsulamento.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\net6.0\ref\Aula55Encapsulamento.dll

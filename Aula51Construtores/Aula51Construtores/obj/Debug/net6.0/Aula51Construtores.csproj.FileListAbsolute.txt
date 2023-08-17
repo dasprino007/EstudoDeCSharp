@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\bin\Debug\net6.0\Aula51Construtores.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\bin\Debug\net6.0\Aula51Construtores.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\bin\Debug\net6.0\Aula51Construtores.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\bin\Debug\net6.0\Aula51Construtores.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\bin\Debug\net6.0\Aula51Construtores.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\refint\Aula51Construtores.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\Aula51Construtores.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula51Construtores\Aula51Construtores\obj\Debug\net6.0\ref\Aula51Construtores.dll

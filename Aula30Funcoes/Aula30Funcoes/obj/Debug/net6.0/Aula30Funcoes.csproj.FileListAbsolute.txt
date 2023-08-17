@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\bin\Debug\net6.0\Aula30Funcoes.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\bin\Debug\net6.0\Aula30Funcoes.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\bin\Debug\net6.0\Aula30Funcoes.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\bin\Debug\net6.0\Aula30Funcoes.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\bin\Debug\net6.0\Aula30Funcoes.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\refint\Aula30Funcoes.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\Aula30Funcoes.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula30Funcoes\Aula30Funcoes\obj\Debug\net6.0\ref\Aula30Funcoes.dll

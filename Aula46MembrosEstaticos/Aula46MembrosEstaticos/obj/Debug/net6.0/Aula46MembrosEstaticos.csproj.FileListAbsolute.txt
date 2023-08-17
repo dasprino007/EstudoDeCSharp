@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\net6.0\Aula46MembrosEstaticos.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\net6.0\Aula46MembrosEstaticos.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\net6.0\Aula46MembrosEstaticos.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\net6.0\Aula46MembrosEstaticos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\net6.0\Aula46MembrosEstaticos.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\refint\Aula46MembrosEstaticos.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\Aula46MembrosEstaticos.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\net6.0\ref\Aula46MembrosEstaticos.dll

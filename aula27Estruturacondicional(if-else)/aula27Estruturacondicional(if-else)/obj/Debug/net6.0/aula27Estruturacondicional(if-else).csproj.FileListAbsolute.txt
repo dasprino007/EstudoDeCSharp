@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\bin\Debug\net6.0\aula27Estruturacondicional(if-else).exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\bin\Debug\net6.0\aula27Estruturacondicional(if-else).deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\bin\Debug\net6.0\aula27Estruturacondicional(if-else).runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\bin\Debug\net6.0\aula27Estruturacondicional(if-else).dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\bin\Debug\net6.0\aula27Estruturacondicional(if-else).pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\refint\aula27Estruturacondicional(if-else).dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\aula27Estruturacondicional(if-else).genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula27Estruturacondicional(if-else)\aula27Estruturacondicional(if-else)\obj\Debug\net6.0\ref\aula27Estruturacondicional(if-else).dll

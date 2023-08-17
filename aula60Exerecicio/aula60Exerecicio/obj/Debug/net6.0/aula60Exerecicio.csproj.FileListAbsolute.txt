@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\bin\Debug\net6.0\aula60Exerecicio.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\bin\Debug\net6.0\aula60Exerecicio.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\bin\Debug\net6.0\aula60Exerecicio.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\bin\Debug\net6.0\aula60Exerecicio.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\bin\Debug\net6.0\aula60Exerecicio.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\refint\aula60Exerecicio.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\aula60Exerecicio.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\aula60Exerecicio\aula60Exerecicio\obj\Debug\net6.0\ref\aula60Exerecicio.dll

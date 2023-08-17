@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\bin\Debug\net6.0\Aula66TiposReferenciaETiposValor.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\bin\Debug\net6.0\Aula66TiposReferenciaETiposValor.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\bin\Debug\net6.0\Aula66TiposReferenciaETiposValor.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\bin\Debug\net6.0\Aula66TiposReferenciaETiposValor.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\bin\Debug\net6.0\Aula66TiposReferenciaETiposValor.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\refint\Aula66TiposReferenciaETiposValor.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\Aula66TiposReferenciaETiposValor.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula66TiposReferenciaETiposValor\Aula66TiposReferenciaETiposValor\obj\Debug\net6.0\ref\Aula66TiposReferenciaETiposValor.dll

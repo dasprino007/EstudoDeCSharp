@@ -1,0 +1,15 @@
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\bin\Debug\net6.0\Aula41CriandoUmMetodo.exe
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\bin\Debug\net6.0\Aula41CriandoUmMetodo.deps.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\bin\Debug\net6.0\Aula41CriandoUmMetodo.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\bin\Debug\net6.0\Aula41CriandoUmMetodo.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\bin\Debug\net6.0\Aula41CriandoUmMetodo.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.csproj.AssemblyReference.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\refint\Aula41CriandoUmMetodo.dll
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.pdb
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\Aula41CriandoUmMetodo.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\codigo\estudo-de-c-\Aula41CriandoUmMetodo\Aula41CriandoUmMetodo\obj\Debug\net6.0\ref\Aula41CriandoUmMetodo.dll
